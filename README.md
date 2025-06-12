@@ -7,11 +7,11 @@
 ```
 sql-ultimate-course/
 │
-├── datasets/                           # Raw datasets used for the course (ERP and CRM data)
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # course documentation and architecture details
+├── docs/                               # Project documentation and architecture details
 │
-└── scripts/                            # All codes presented in the course
+└── scripts/                            # All SQL codes used in the project
 ```
 
 ## 🛡️ License
