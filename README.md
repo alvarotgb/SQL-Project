@@ -7,7 +7,8 @@ Designed as a portfolio project, it highlights industry best practices in data e
 ---
 ## Data Architecture
 
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+The data architecture for this project follows Medallion Architecture: **Bronze**, **Silver**, and **Gold** layers.
+
 ![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into the SQL Server Database.
